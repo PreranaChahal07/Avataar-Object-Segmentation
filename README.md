@@ -32,3 +32,15 @@ Support for multiple object selections.
 Advanced customization options for inpainting prompts.
 
 Integration with other image processing techniques for enhanced functionality.
+
+# Input Image
+
+![bagpack](https://github.com/user-attachments/assets/e561183c-1b84-4663-8134-3058c3342017)
+
+# Masked Image
+
+![image](https://github.com/user-attachments/assets/b9a71216-3ae8-4599-979b-e547504eb28d)
+
+# Output Image
+
+![image](https://github.com/user-attachments/assets/ae57509e-1039-40a8-ac6d-925c22119b3c)
