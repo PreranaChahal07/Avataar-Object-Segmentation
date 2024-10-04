@@ -47,8 +47,8 @@ To run the project, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using:
 
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/PreranaChahal07/Avataar-Object-Segmentation.git
+    cd Avataar-Object-Segmentation
 
 Install Dependencies: Ensure you have the required packages.
 
